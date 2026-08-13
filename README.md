@@ -72,6 +72,6 @@ The project successfully demonstrates face detection from a pre-recorded video u
 
 ## Author
 
-Wesal Ibrahim Alsharif
+Wesal Ibrahim Alshareef
 
 CS Student at Taif University
